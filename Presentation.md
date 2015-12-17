@@ -1,13 +1,13 @@
 Mehdi
 35 ans
 
-#FORMATION
+# FORMATION
 Depuis Février 2015 : DEUST ICE(Informatique et communication d'Entreprise)
 2004/2005 : Formation en MAO
 2003 : DEUG Histoire/Sociologie
 2000 : Bac L option Arts Plastiques
 
-#Expériences professionnelles
+# Expériences professionnelles
 2010-2015 : Enquêteur pour l'institut de sondage BVA puis chef d'équipe pour ce même institut (missions ponctuelles)
 2012 : Téléopérateur pour la Voix du Nord
 2005-2012 : Intervenant en MAO puis Technicien son
